@@ -1,0 +1,61 @@
+
+.btn
+{
+    width: 120px;
+    margin-top: 20px;
+    color: #373937;
+   border: 1px solid #373937;
+   background-color:white ;
+   margin-bottom: 30px;
+}
+
+.btn-logout:hover
+{
+    color: white;
+    border: 1px solid #FC334E;
+    background-color:#FC334E ;
+}
+
+.group
+{
+    
+    padding: 50px;
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+    height: 500px;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 0px !important;
+
+}
+
+
+
+@media(max-width:414px)
+{
+.group
+{
+    
+    padding: 20px;
+    height: 465px;
+}
+}
+
+@media(max-width:320px)
+{
+    h1
+    {
+        font-size: 30px !important;
+        text-align: center;
+    }
+.group
+{
+    
+    padding: 20px;
+    height: 380px !important;
+}
+}
+
+
+
