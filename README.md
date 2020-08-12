@@ -13,3 +13,5 @@ Basic register-login panel created with Bootstrap &amp; PHP
 4. Create two table rows <b> user_name </b> & <b> user_password </b> (VARCHAR 255) [Primary key <b>user_name</b>]
 
 5. Run the Project.
+
+<img src="screenshot.PNG">
