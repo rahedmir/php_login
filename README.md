@@ -10,7 +10,7 @@ Basic register-login panel created with Bootstrap &amp; PHP
 
 3. Go to PHPMyAdmin panel and create a database named <b>log </b>. Database table name  <b>user_table</b>
 
-4. Create two table rows <b> user_name </b> & <b> user_password </b> (VARCHAR 255) [Primary key <b>user_name</b>]
+4. Create two table columns <b> user_name </b> & <b> user_password </b> (VARCHAR 255) [Primary key <b>user_name</b>]
 
 5. Run the Project.
 
