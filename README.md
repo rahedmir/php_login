@@ -8,7 +8,7 @@ A basic register-login panel created with Bootstrap &amp; PHP
 
 2. Copy "PHP_Login" folder to the WAMP's (wamp64)<b> www </b>folder.
 
-3. Go to PHPMyAdmin panel and create a database named <b>log</b>. Database table name <b> user_table </b>
+3. Go to the PHPMyAdmin panel and create a database named <b>log</b>. Database table name <b> user_table </b>
 
 4. Create two table columns <b> user_name </b> & <b> user_password </b> (VARCHAR 255) [Primary key: <b>user_name</b>]
 
