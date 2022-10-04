@@ -1,0 +1,43 @@
+/* CSS Selectors */
+.btn {
+  width: 120px;
+  color: #373937;
+  background-color: #FFFFFF;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  border: 1px solid #373937;
+}
+
+.btn-logout:hover {
+  color: #FFFFFF;
+  background-color: #FC334E;
+  border: 1px solid #FC334E;
+}
+
+.group {
+  padding: 50px;
+  height: 500px;
+  margin: 80px 20px 40px 20px;
+  padding-top: 0px !important;
+  box-shadow: 5px 0px 40px rgba(0, 0, 0, .2);
+}
+
+/* Media Queries */
+@media(max-width:414px) {
+  .group {
+    padding: 20px;
+    height: 465px;
+  }
+}
+
+@media(max-width:320px) {
+  h1 {
+    font-size: 30px !important;
+    text-align: center;
+  }
+
+  .group {
+    padding: 20px;
+    height: 380px !important;
+  }
+}
